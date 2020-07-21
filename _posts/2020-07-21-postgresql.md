@@ -7,7 +7,7 @@ tag :
 author_profile : true
 toc : true
 ---
-# 
+
 
 SQL/DB 강의 수강을 위해 PostgreSQL을 설치하고 샘플 DB를 구축한 뒤 DBeaver를 설치했다
 
@@ -15,7 +15,7 @@ SQL/DB 강의 수강을 위해 PostgreSQL을 설치하고 샘플 DB를 구축한
 
 [PostgreSQL tutorial](https://www.postgresqltutorial.com/install-postgresql-macos/) 페이지를 참고하여 설치했다
 
-#
+---
 
 ### Sample DB 
 튜토리얼에서 제공하는 [샘플DB 저장하기](https://www.postgresqltutorial.com/postgresql-sample-database/) 
@@ -40,7 +40,7 @@ SQL/DB 강의 수강을 위해 PostgreSQL을 설치하고 샘플 DB를 구축한
 
 **pgAdmin 4**를 실행하여 접속한다
 
-#
+---
 
 ### DBevear 
 
