@@ -3,7 +3,8 @@ title : "PostgreSQL 실습 환경 설정"
 category : 
     - postgresql
 tag : 
-    - postgresql, sql
+    - postgresql
+    - sql
 author_profile : true
 toc : true
 ---
